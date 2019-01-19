@@ -1,7 +1,5 @@
 /*
 Daniel Connelly
-CS202-003
-Professor Karla Fant
 06/01/2018
 
 This class file holds our main and is where the majority of classes are called from. The program creates a tree of BST
